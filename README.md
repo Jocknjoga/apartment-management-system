@@ -38,9 +38,9 @@ A full-featured web application for managing apartments, units, tenants, rent pa
 
 ## 🖼️ Screenshots
 
-| Dashboard | Chatbot | Payment Page |
+| Dashboard | Tenant | Payment Page |
 |-----------|---------|--------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Chatbot](screenshots/chatbot.png) | ![Payments](screenshots/payments.png) |
+| ![Dashboard](screenshots/Dashboard.png) | ![TenantS](screenshots/Tenants.png) | ![Payments](screenshots/Payments.png) |
 
 ---
 
