@@ -1,0 +1,10 @@
+# Ignore database connection file
+Apartment/config/db_connect.php
+
+# Ignore IDE or system files
+.DS_Store
+Thumbs.db
+
+# Ignore any backup files
+*.bak
+*.tmp
