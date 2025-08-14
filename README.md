@@ -40,7 +40,7 @@ A full-featured web application for managing apartments, units, tenants, rent pa
 
 | Dashboard | Tenant | Payment Page |
 |-----------|---------|--------------|
-| ![Dashboard](screenshots/Dashboard.png) | ![TenantS](screenshots/Tenants.png) | ![Payments](screenshots/Payments.png) |
+| ![Dashboard](SCREENSHOTS/Dashboard.png) | ![Tenants](SCREENSHOTS/Tenants.png) | ![Payments](SCREENSHOTS/Payments.png) |
 
 ---
 
